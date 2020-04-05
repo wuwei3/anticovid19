@@ -1,4 +1,4 @@
-# 基于哪个镜像
+# 基于哪个镜像1
 #FROM java:8
 FROM openjdk:8-jdk-alpine
 # 将本地文件夹挂载到当前容器
